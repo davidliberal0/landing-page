@@ -2,7 +2,7 @@
   box-sizing: boder-box;
   margin: 0px;
   padding: 0px;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 
 body {
@@ -106,10 +106,6 @@ section.section-two {
   background-color: #e5e7eb;
 }
 
-.inspiring-quote {
-}
-
 .inspiring-quote p {
   font-size: 36px;
-  font-weight: 100;
 }
