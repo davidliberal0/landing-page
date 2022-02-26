@@ -57,6 +57,11 @@ p.main-text {
   font-weight: 700;
 }
 
+.sub-text {
+  font-size: 16px;
+  color: #e5e7eb;
+}
+
 button.sign-up {
   margin-top: 5px;
   padding: 5px 30px 5px 30px;
@@ -68,9 +73,30 @@ button.sign-up {
 section.section-two {
   background-color: white;
   margin-top: 80px;
+  height: 40vh;
 }
 
 .section-two h2 {
   text-align: center;
   padding: 40px;
+}
+
+.section-two img {
+  width: 200px;
+  height: 150px;
+  border-radius: 5px;
+  border: 2px solid #1f2937;
+  object-fit: cover;
+}
+
+.travel-destinations {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  background-color: white;
+}
+
+.location p {
+  text-align: center;
+  margin-top: 2px;
 }
