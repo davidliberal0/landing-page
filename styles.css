@@ -65,6 +65,7 @@ p.main-text {
 button.sign-up {
   margin-top: 5px;
   padding: 5px 30px 5px 30px;
+  border: none;
   border-radius: 7px;
   background-color: #3882f6;
   color: white;
@@ -104,8 +105,18 @@ section.section-two {
 .section-three {
   height: 50vh;
   background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inspiring-quote {
+  width: 700px;
 }
 
 .inspiring-quote p {
-  font-size: 36px;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 1.25;
+  /* padding: 100px; */
 }
