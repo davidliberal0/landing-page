@@ -73,8 +73,7 @@ button.sign-up {
 
 section.section-two {
   background-color: white;
-  margin-top: 80px;
-  height: 40vh;
+  height: 30vh;
 }
 
 .section-two h2 {
@@ -88,18 +87,20 @@ section.section-two {
   border-radius: 5px;
   border: 2px solid #1f2937;
   object-fit: cover;
+  display: flex;
 }
 
 .travel-destinations {
   display: flex;
   justify-content: space-around;
-  margin-bottom: 50px;
+  margin: auto;
   background-color: white;
+  width: 80%;
 }
 
 .location p {
   text-align: center;
-  margin-top: 2px;
+  margin-top: 6px;
 }
 
 .section-three {
