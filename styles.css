@@ -40,6 +40,7 @@ img.main-image {
 }
 
 .section-one {
+  height: 50vh;
   margin-top: 30px;
   display: flex;
   justify-content: space-between;
@@ -73,12 +74,13 @@ button.sign-up {
 
 section.section-two {
   background-color: white;
-  height: 30vh;
+  height: 40vh;
 }
 
 .section-two h2 {
   text-align: center;
-  padding: 40px;
+  padding: 35px;
+  margin-bottom: 20px;
 }
 
 .section-two img {
@@ -104,7 +106,7 @@ section.section-two {
 }
 
 .section-three {
-  height: 50vh;
+  height: 30vh;
   background-color: #e5e7eb;
   display: flex;
   justify-content: center;
