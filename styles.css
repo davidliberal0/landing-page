@@ -109,6 +109,7 @@ section.section-two {
   height: 30vh;
   background-color: #e5e7eb;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
