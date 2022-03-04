@@ -130,6 +130,7 @@ footer {
 }
 
 .section-four {
+  background-color: #f9faf8;
   height: 20vh;
   display: flex;
   align-items: center;
@@ -162,4 +163,16 @@ footer {
   border: 2px solid #e5e7eb;
   color: #e5e7eb;
   border-radius: 10px;
+}
+
+.section-five {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.credits p {
+  color: #f9faf8;
+  font-weight: 200;
 }
