@@ -124,3 +124,42 @@ section.section-two {
   line-height: 1.25;
   /* padding: 100px; */
 }
+
+footer {
+  text-align: right;
+}
+
+.section-four {
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.newsletter {
+  background-color: #3882f6;
+  border-radius: 10px;
+  padding: 25px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.newsletter p {
+  font-size: 12px;
+  color: white;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-right: 20px;
+}
+
+.newsletter h5 {
+  font-size: 15px;
+}
+
+.newsletter button {
+  background: #3882f6;
+  padding: 5px 30px 5px 30px;
+  border: 2px solid #e5e7eb;
+  color: #e5e7eb;
+  border-radius: 10px;
+}
